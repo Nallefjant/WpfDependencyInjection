@@ -1,0 +1,15 @@
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\obj\Debug\WpfPractiseApplicationTests.csprojResolveAssemblyReference.cache
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\WpfPractiseApplicationTests.dll
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\WpfPractiseApplicationTests.pdb
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Moq.dll
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\WpfPractiseApplication.exe
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\WpfPractiseApplication.pdb
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Moq.xml
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\obj\Debug\WpfPractiseApplicationTests.dll
+c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplicationTests\obj\Debug\WpfPractiseApplicationTests.pdb
