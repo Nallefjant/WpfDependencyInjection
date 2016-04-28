@@ -23,3 +23,29 @@ c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\Wp
 c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplication\obj\Debug\WpfPractiseApplication.g.resources
 c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplication\obj\Debug\WpfPractiseApplication.Properties.Resources.resources
 c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplication\obj\Debug\WpfDependencyInjection.csproj.GenerateResource.Cache
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\WpfPractiseApplication.exe.config
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfPractiseApplication.exe
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfPractiseApplication.pdb
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\WpfPractiseApplication.exe
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\WpfPractiseApplication.pdb
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.Unity.dll
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.Unity.xml
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfDependencyInjection.csprojResolveAssemblyReference.cache
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\Views\MainWindow.g.cs
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\Views\UserDataView.g.cs
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\App.g.cs
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfPractiseApplication_MarkupCompile.cache
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfPractiseApplication_MarkupCompile.lref
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\Views\MainWindow.baml
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\Views\UserDataView.baml
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfPractiseApplication.g.resources
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfPractiseApplication.Properties.Resources.resources
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\WpfDependencyInjection.csproj.GenerateResource.Cache

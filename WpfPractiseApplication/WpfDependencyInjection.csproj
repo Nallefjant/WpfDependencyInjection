@@ -73,12 +73,12 @@
     </ApplicationDefinition>
     <Compile Include="Services\DataService.cs" />
     <Compile Include="Services\Interfaces\IDataService.cs" />
-    <Compile Include="UserDataView.xaml.cs">
+    <Compile Include="Views\UserDataView.xaml.cs">
       <DependentUpon>UserDataView.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\Interfaces\IUserViewModel.cs" />
     <Compile Include="ViewModels\UserViewModel.cs" />
-    <Page Include="MainWindow.xaml">
+    <Page Include="Views\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -87,11 +87,11 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="App_Start\UnityConfig.cs" />
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="Views\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="UserDataView.xaml">
+    <Page Include="Views\UserDataView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplication\obj\Debug\
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\obj\Debug\
 WpfPractiseApplication
 none
 false
 DEBUG;TRACE
-c:\users\u005879\documents\visual studio 2015\Projects\WpfPractiseApplication\WpfPractiseApplication\App.xaml
-2964750876
+C:\projects\WpfDependencyInjection\WpfPractiseApplication\App.xaml
+2-613748821
 
-11-1740880032
-68283569867
-MainWindow.xaml;UserDataView.xaml;
+11-82749273
+682082163522
+Views\MainWindow.xaml;Views\UserDataView.xaml;
 
 False
 
